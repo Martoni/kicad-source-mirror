@@ -30,7 +30,7 @@ eeschema       - Sourcecode of the schematic editor
 gerbview       - Sourcecode of the gerber viewer
 helpers        - Helper tools and utilities for development
 include        - Interfaces to the common library
-internat       - Internationalisation files
+internat       - Internationalization files
 kicad          - Sourcecode of the project manager
 packaging      - Files for packaging on Windows and Mac OSX
 pcbnew         - Sourcecode of the printed circuit board editor
